@@ -1,0 +1,8 @@
+﻿{
+  "version": "2.0.0",
+  "build": 200,
+  "installer": "Forge_Labs_Steam_Setup_2.00.exe",
+  "hash": "your_sha256_hash_here",
+  "update_url": "https://github.com/forgelabs3d/fgl-steam-updates/releases/download/v2.0.0/Forge_Labs_Steam_Setup_2.00.exe"
+}
+
